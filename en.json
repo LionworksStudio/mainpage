@@ -1,0 +1,104 @@
+{
+    "lang": "en",
+    "title": "Complete Website",
+    "header": {
+      "logo_alt": "",
+      "nav": {
+        "inicio": "Home",
+        "equipo": "Team",
+        "servicio": "Services",
+        "trabajo": "Work",
+        "contacto": "Contact"
+      },
+      "main_text": {
+        "h1": "Lionworks Studio",
+        "h2": "Web development agency, game creation, and much more"
+      }
+    },
+    "sections": {
+      "equipo": {
+        "title": "My work team",
+        "description": "Meet my work team",
+        "team_members": [
+          {
+            "name": "Cosmo",
+            "description": "Lazy but sweet."
+          },
+          {
+            "name": "Ignacio",
+            "description": "Creative and ambitious."
+          },
+          {
+            "name": "Mona",
+            "description": "The grumpy boss"
+          }
+        ]
+      },
+      "servicios": {
+        "title": "My services",
+        "description": "Always improving for you",
+        "services": [
+          {
+            "name": "Graphic design",
+            "description": "Creation of logos, Instagram posts, websites, and much more"
+          },
+          {
+            "name": "Compatibility",
+            "description": "Adaptability on both PC and mobile devices"
+          },
+          {
+            "name": "Programming",
+            "description": "Works done in HTML, CSS, JavaScript, and more"
+          }
+        ]
+      },
+      "trabajos": {
+        "title": "My work",
+        "description": "I make something simple extraordinary",
+        "categories": ["All", "Design", "Programming", "Games"],
+        "works": [
+          {
+            "name": "Html",
+            "category": "Programming"
+          },
+          {
+            "name": "Python",
+            "category": "Programming"
+          },
+          {
+            "name": "JavaScript",
+            "category": "Programming"
+          },
+          {
+            "name": "Website",
+            "category": "Design"
+          },
+          {
+            "name": "Logos",
+            "category": "Design"
+          },
+          {
+            "name": "Social media advertising",
+            "category": "Design"
+          },
+          {
+            "name": "The escape dungeon",
+            "category": "Games"
+          },
+          {
+            "name": "Liam.",
+            "category": "Games"
+          },
+          {
+            "name": "¿?",
+            "category": "Games"
+          }
+        ]
+      }
+    },
+    "footer": {
+      "brand": "Passion and innovation set me apart from the rest",
+      "social_icons": ["fab fa-whatsapp", "fab fa-youtube", "fab fa-instagram"]
+    }
+  }
+  

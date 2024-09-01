@@ -1,0 +1,104 @@
+{
+    "lang": "es",
+    "title": "Página web completa",
+    "header": {
+      "logo_alt": "",
+      "nav": {
+        "inicio": "Inicio",
+        "equipo": "Equipo",
+        "servicio": "Servicios",
+        "trabajo": "Trabajos",
+        "contacto": "Contacto"
+      },
+      "main_text": {
+        "h1": "Lionworks Studio",
+        "h2": "Agencia de desarrollo web, creación de juegos y mucho más"
+      }
+    },
+    "sections": {
+      "equipo": {
+        "title": "Mi equipo de trabajo",
+        "description": "Conoce a mi equipo de trabajo",
+        "team_members": [
+          {
+            "name": "Cosmo",
+            "description": "Vago pero tierno."
+          },
+          {
+            "name": "Ignacio",
+            "description": "Creativo y ambicioso."
+          },
+          {
+            "name": "Mona",
+            "description": "La patrona enojona"
+          }
+        ]
+      },
+      "servicios": {
+        "title": "Mis servicios",
+        "description": "Siempre mejorando para ti",
+        "services": [
+          {
+            "name": "Diseño gráfico",
+            "description": "Creación de logos, post para Instagram, páginas web y mucho más"
+          },
+          {
+            "name": "Compatibilidad",
+            "description": "Adaptabilidad tanto en PC, como celulares"
+          },
+          {
+            "name": "Programación",
+            "description": "Trabajos hechos en HTML, CSS, JavaScript y más"
+          }
+        ]
+      },
+      "trabajos": {
+        "title": "Mis trabajos",
+        "description": "Hago de algo simple algo extraordinario",
+        "categories": ["Todos", "Diseño", "Programación", "Juegos"],
+        "works": [
+          {
+            "name": "Html",
+            "category": "Programación"
+          },
+          {
+            "name": "Python",
+            "category": "Programación"
+          },
+          {
+            "name": "JavaScript",
+            "category": "Programación"
+          },
+          {
+            "name": "Página web",
+            "category": "Diseño"
+          },
+          {
+            "name": "Logos",
+            "category": "Diseño"
+          },
+          {
+            "name": "Publicidad para redes sociales",
+            "category": "Diseño"
+          },
+          {
+            "name": "The escape dungeon",
+            "category": "Juegos"
+          },
+          {
+            "name": "Liam.",
+            "category": "Juegos"
+          },
+          {
+            "name": "¿?",
+            "category": "Juegos"
+          }
+        ]
+      }
+    },
+    "footer": {
+      "brand": "La pasión e innovación es lo que me distingue del resto",
+      "social_icons": ["fab fa-whatsapp", "fab fa-youtube", "fab fa-instagram"]
+    }
+  }
+  
